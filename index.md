@@ -1,11 +1,8 @@
-## SIP Lab Open Source Repositories
-
-
-## Welcome to GitHub Pages
+## Welcome to SIP Lab Open Source Repositories Page
 
 You can use the [editor on GitHub](https://github.com/SIP-Lab/SIP-Lab.github.io/edit/master/index.md) to access and preview the content of following projects:
 
-|** Smartphone Audio Processing Apps**
+|*Smartphone Audio Processing Apps*|
 |:-------
 |[Audio Multi-band Dynamic Range Compression Smartphone app](https://github.com/nasim-alamdari/Audio-Compression.git)
 |[Personalized Noise Reduction and Compression Smartphone App for Hearing Enhancement](https://github.com/nasim-alamdari/Personalized-NR.git)
