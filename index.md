@@ -11,7 +11,7 @@ Following are list of smartphone apps with audio application:
 3. [Background Unsupervised Noise Classification on Smartphones](https://github.com/nasim-alamdari/Unsupervised-Noise-Classification.git)
 4. [Convolutional Neural Network based Voice Activity Detector](https://github.com/abhishek-sehgal/CNN-VAD.git)
 5. [Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App](https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git)
-6. [Adaptive Noise Reduction and Background Noise Classification using External Microphones on iOS](https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git)
+6. [Adaptive Noise Reduction and Background Noise Classification using External Microphones](https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git)
 7. [Smartphone Research Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
 
 
