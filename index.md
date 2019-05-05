@@ -1,6 +1,6 @@
 ## Welcome to SIP Lab Open Source Repositories Page
 
-You can use the [editor on GitHub](https://github.com/SIP-Lab/SIP-Lab.github.io/edit/master/index.md) to access and preview the content of following projects:
+You can access and preview the content of the following projects that developed in Signal and Image Processing Lab at the University of Texas at Dallas:
 
 
 ### Smartphone Audio Processing Apps
