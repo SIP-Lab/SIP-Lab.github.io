@@ -6,13 +6,13 @@ You can access and preview the content of the following projects that developed 
 ### Smartphone Audio Processing Apps
 Following are list of smartphone apps with audio application:
 
-1.[Audio Multi-band Dynamic Range Compression Smartphone app](https://github.com/nasim-alamdari/Audio-Compression.git)
-2.[Personalized Noise Reduction and Compression Smartphone App for Hearing Enhancement](https://github.com/nasim-alamdari/Personalized-NR.git)
-3.[Background Unsupervised Noise Classification on Smartphones](https://github.com/nasim-alamdari/Unsupervised-Noise-Classification.git)
-4.[Convolutional Neural Network based Voice Activity Detector](https://github.com/abhishek-sehgal/CNN-VAD.git)
-5.[Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App](https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git)
-6.[Adaptive Noise Reduction and Background Noise Classification using External Microphones on iOS](https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git)
-7[Smartphone Research Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
+1. [Audio Multi-band Dynamic Range Compression Smartphone app](https://github.com/nasim-alamdari/Audio-Compression.git)
+2. [Personalized Noise Reduction and Compression Smartphone App for Hearing Enhancement](https://github.com/nasim-alamdari/Personalized-NR.git)
+3. [Background Unsupervised Noise Classification on Smartphones](https://github.com/nasim-alamdari/Unsupervised-Noise-Classification.git)
+4. [Convolutional Neural Network based Voice Activity Detector](https://github.com/abhishek-sehgal/CNN-VAD.git)
+5. [Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App](https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git)
+6. [Adaptive Noise Reduction and Background Noise Classification using External Microphones on iOS](https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git)
+7. [Smartphone Research Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
 
 
 
