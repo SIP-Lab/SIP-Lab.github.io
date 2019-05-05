@@ -15,10 +15,10 @@ You can use the [editor on GitHub](https://github.com/SIP-Lab/SIP-Lab.github.io/
 |[Smartphone Research Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
 
 
-## Guidelines for Deployment of Deep Learning Models on Smartphones as Real-Time Apps
+### Guidelines for Deployment of Deep Learning Models on Smartphones as Real-Time Apps
 |[Deploying Deep Learning Models on Smartphones](https://github.com/abhishek-sehgal/Deep-Learning-Mobile.git)
 
-## Pansharpening Project
+### Pansharpening Project
 |[Convolutional Autoencoder-Based Multispectral Image Fusion](https://github.com/ArianAzg/ConvolutionalAutoEncoder-ImageFusion.git)
 
 
