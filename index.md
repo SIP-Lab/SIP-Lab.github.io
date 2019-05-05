@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/SIP-Lab/SIP-Lab.github.io/
 
 |**Project**|Description
 |:-------|:----------
-|https://github.com/nasim-alamdari/Audio-Compression.git| Audio Multi-band Dynamic Range Compression Smartphone app
+|[Audio Multi-band Dynamic Range Compression Smartphone app](https://github.com/nasim-alamdari/Audio-Compression.git)| Audio Multi-band Dynamic Range Compression Smartphone app
 |https://github.com/nasim-alamdari/Personalized-NR.git| Personalized Noise Reduction and Compression Smartphone App for Hearing Enhancement
 |https://github.com/abhishek-sehgal/Deep-Learning-Mobile.git| Deploying Deep Learning Models on Smartphones
 |https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git| Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App
