@@ -5,6 +5,7 @@ You can access and preview the content of the following projects that developed 
 
 ### Smartphone Audio Processing Apps
 |**List of Smartphone Apps**
+|:-------
 |[Audio Multi-band Dynamic Range Compression Smartphone app](https://github.com/nasim-alamdari/Audio-Compression.git)
 |[Personalized Noise Reduction and Compression Smartphone App for Hearing Enhancement](https://github.com/nasim-alamdari/Personalized-NR.git)
 |[Background Unsupervised Noise Classification on Smartphones](https://github.com/nasim-alamdari/Unsupervised-Noise-Classification.git)
