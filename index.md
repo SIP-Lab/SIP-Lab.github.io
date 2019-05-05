@@ -1,6 +1,21 @@
+## SIP Lab Open Source Repositories
+
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SIP-Lab/SIP-Lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/SIP-Lab/SIP-Lab.github.io/edit/master/index.md) to access and preview the content of following projects:
+|**Project**|Description
+|:-------|:----------
+|https://github.com/nasim-alamdari/Audio-Compression.git| Audio Multi-band Dynamic Range Compression Smartphone app
+|https://github.com/nasim-alamdari/Personalized-NR.git| Personalized Noise Reduction and Compression Smartphone App for Hearing Enhancement
+|https://github.com/abhishek-sehgal/Deep-Learning-Mobile.git| Deploying Deep Learning Models on Smartphones
+|https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git| Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App
+|https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git| Adaptive Noise Reduction and Background Noise Classification using External Microphones on iOS
+|https://github.com/abhishek-sehgal/CNN-VAD.git| Convolutional Neural Network based Voice Activity Detector
+|https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git| Smartphone Research Platform
+|https://github.com/nasim-alamdari/Unsupervised-Noise-Classification.git| Background Unsupervised Noise Classification on Smartphones
+|https://github.com/ArianAzg/ConvolutionalAutoEncoder-ImageFusion.git| Convolutional Autoencoder-Based Multispectral Image Fusion
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
