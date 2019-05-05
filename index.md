@@ -4,6 +4,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SIP-Lab/SIP-Lab.github.io/edit/master/index.md) to access and preview the content of following projects:
+
 |**Project**|Description
 |:-------|:----------
 |https://github.com/nasim-alamdari/Audio-Compression.git| Audio Multi-band Dynamic Range Compression Smartphone app
