@@ -6,7 +6,7 @@ The codes of the following projects conducted in the Signal and Image Processing
 ### Audio Processing Smartphone Apps
 Apps developed for performing real-time low-latency audio processing on smartphones (both Android and iOS):
 
-1. [Smartphones as Signal Processing Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
+1. [Smartphones as Open Source Signal Processing Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
 2. [Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App](https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git)
 2. [Adaptive Noise Reduction and Background Noise Classification Apps Using a Dual External Microphone](https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git)
 4. [Convolutional Neural Network-Based Voice Activity Detection App](https://github.com/abhishek-sehgal/CNN-VAD.git)
