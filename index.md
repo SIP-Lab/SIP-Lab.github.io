@@ -1,27 +1,20 @@
-## Welcome to SIP Lab Open Source Repositories Page
+## SIP-Lab Open Source Repository Webpage
 
-You can access and preview the content of the following projects that developed in Signal and Image Processing Lab at the University of Texas at Dallas:
-
-
-### Smartphone Audio Processing Apps
-Following are list of smartphone apps with audio application:
-
-1. [Audio Multi-band Dynamic Range Compression Smartphone app](https://github.com/nasim-alamdari/Audio-Compression.git)
-2. [Personalized Noise Reduction and Compression Smartphone App for Hearing Enhancement](https://github.com/nasim-alamdari/Personalized-NR.git)
-3. [Background Unsupervised Noise Classification on Smartphones](https://github.com/nasim-alamdari/Unsupervised-Noise-Classification.git)
-4. [Convolutional Neural Network based Voice Activity Detector](https://github.com/abhishek-sehgal/CNN-VAD.git)
-5. [Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App](https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git)
-6. [Adaptive Noise Reduction and Background Noise Classification using External Microphones](https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git)
-7. [Smartphone Research Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
+The codes of the following projects conducted in the Signal and Image Processing Lab (SIP-Lab) at the University of Texas at Dallas (UTD) can be downloaded from the GitHub reporsitory links listed.
 
 
+### Audio Processing Smartphone Apps
+Apps developed for performing real-time low-latency audio processing on smartphones (both Android and iOS):
 
-### Deploying Deep Learning Models on Smartphones as Real-Time Apps
-Click to this [Link](https://github.com/abhishek-sehgal/Deep-Learning-Mobile.git) for GitHub repository of this work.
+1. [Smartphones as Signal Processing Platform](https://github.com/abhishek-sehgal/Smartphone-Research-Platform.git)
+2. [Integrating Signal Processing Modules of Hearing Aids into a Real-Time Smartphone App](https://github.com/abhishek-sehgal/Integrated-Hearing-Aid-App.git)
+2. [Adaptive Noise Reduction and Background Noise Classification Apps Using a Dual External Microphone](https://github.com/abhishek-sehgal/iOS-TwoExternalMics.git)
+4. [Convolutional Neural Network-Based Voice Activity Detection App](https://github.com/abhishek-sehgal/CNN-VAD.git)
+5. [Unsupervised Background Noise Classification App](https://github.com/nasim-alamdari/Unsupervised-Noise-Classification.git)
+6. [Multiband Compression App](https://github.com/nasim-alamdari/Audio-Compression.git)
+7. [Personalized Noise Reduction + Compression App for Hearing Enhancement](https://github.com/nasim-alamdari/Personalized-NR.git)
 
 
-
-### Convolutional Autoencoder-Based Multispectral Image Fusion
-Click to this [Link](https://github.com/ArianAzg/ConvolutionalAutoEncoder-ImageFusion.git) for GitHub repository of this work.
-
-
+### Deep Learning Models and Implementation
+1. [Real-Time Implementation of Deep Learning Models on Smartphones](https://github.com/abhishek-sehgal/Deep-Learning-Mobile.git) 
+2. [Autoencoder-Based Multispectal Image Fusion](https://github.com/ArianAzg/ConvolutionalAutoEncoder-ImageFusion.git) 
