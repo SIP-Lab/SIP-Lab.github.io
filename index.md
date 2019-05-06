@@ -1,6 +1,6 @@
 ## SIP-Lab Open Source Repository Webpage
 
-The codes of the following projects conducted in the Signal and Image Processing Lab (SIP-Lab) at the University of Texas at Dallas (UTD) can be downloaded from the GitHub repository listing below.
+The codes of the following projects conducted in the Signal and Image Processing Laboratory (SIP-Lab) at the University of Texas at Dallas (UTD) can be downloaded from the GitHub repository listing below.
 
 
 ### Audio Processing Smartphone Apps
